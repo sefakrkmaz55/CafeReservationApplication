@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584792952274",
+    "project_id": "bitirme-9553e",
+    "storage_bucket": "bitirme-9553e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584792952274:android:4627f679da1be891078c0b",
+        "android_client_info": {
+          "package_name": "com.bitirme.rezervasyonuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzYDu8s8g2Y9pYv8oV_xMrkUzl-5zgsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

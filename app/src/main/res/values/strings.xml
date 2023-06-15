@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">rezervasyonUygulamasi</string>
+    <string name="detail_header">KAFEMİZE HOŞGELDİNİZ</string>
+    <string name="detail_subtitle">YAPABİLCEĞİNİZ ETKİNLİKLER</string>
+    <string name="detail_text">En Güzel ve Özel Anlarınızı Birlikte Yaşayalım</string>
+    <string name="detail_text2">Rezervasyon Ekranına Gitmek İçin Tıklayınız</string>
+    <string name="btn_table">Masa Seçmek İçin Tıklayınız</string>
+    <string name="tv_choosetable">Seçilen Masa</string>
+    <string name="btn_activity">Etkinlik Seçmek İçin Tıklayınız</string>
+    <string name="tv_chooseactivity">Seçilen Etkinlik</string>
+    <string name="btn_calendar">Tarih Seçiniz</string>
+    <string name="tv_calendar">Seçilen Tarih</string>
+    <string name="btn_extra">Paketlerimiz</string>
+    <string name="tv_extra">Seçilen Paket</string>
+    <string name="btn_reservation">Rezervasyonu Onayla</string>
+    <string name="tv_tabletext">Masa Krokisi</string>
+</resources>
